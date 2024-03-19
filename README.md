@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @merratio
+- 👋 Hi, I’m Oconnor Burton
 - 👀 I’m interested in watching anime playing valorant and genshin impact 
-- 🌱 I’m currently learning how to code in C and python 
+- 🌱 I’m know how to code in C and python
+- I am currently learning how to code in C++ and Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach me at the email oconnorburton387@gmail.com
 
 <!---
 merratio/merratio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
