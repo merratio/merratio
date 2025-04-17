@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Oconnor Burton
-- 👀 I’m interested in watching anime playing valorant and genshin impact 
-- 🌱 I’m know how to code in C, python and Java
-- I am currently learning how to code in C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in fast and explosive cars, learning complex math, and interacting with people
+- 🌱 I know how to code in C, C++, python Java and I am currently learning JavaScript and Frameworks
 - 📫 you can reach me at the email oconnorburton387@gmail.com
 
 <!---
